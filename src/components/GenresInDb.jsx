@@ -1,7 +1,7 @@
 import React from 'react';
-import mandalorian from "../assets/images/mandalorian.jpg";
+//import mandalorian from "../assets/images/mandalorian.jpg";
 
-function GenresInDb() {
+function GenresInDb(props) {
     return (
 
                     <div className="col-lg-6 mb-4">						
